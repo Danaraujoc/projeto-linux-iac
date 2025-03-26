@@ -15,6 +15,9 @@ Com a IaC, são criados arquivos de configuração que incluem as especificaçõ
 Ao automatizar o provisionamento da infraestrutura com a IaC, os desenvolvedores não precisam provisionar e gerenciar manualmente servidores, sistemas operacionais, armazenamento e outros componentes de infraestrutura sempre que criam ou implantam uma aplicação.
 
 
+![IaC Imagem](https://github.com/Danaraujoc/projeto-linux-iac/blob/main/Infraestrutura%20Iac.png)
+
+
 ## Scopo
 
 - **`Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;`**
